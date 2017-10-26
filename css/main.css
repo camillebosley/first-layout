@@ -16,6 +16,10 @@ body {
   width: 80%
 }
 
-li {
+nav li {
   list-style-type: none;
+}
+
+nav a {
+  text-decoration: none;
 }
