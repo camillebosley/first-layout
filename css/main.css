@@ -22,8 +22,8 @@ header {
   justify-content: space-between;
 }
 
-header h1 {
-
+nav {
+  margin-top: .7em;
 }
 
 nav ul {
