@@ -12,6 +12,7 @@ body, h1, h2, ul, ol {
 
 body {
   font-family: 'Droid Sans', sans-serif;
+  font-size: 1em;
   margin: 20px auto 0;
   width: 80%
 }
@@ -25,8 +26,10 @@ header h1 {
 
 }
 
-header nav {
-  
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  width: 20em;
 }
 
 nav li {
