@@ -16,6 +16,19 @@ body {
   width: 80%
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+header h1 {
+
+}
+
+header nav {
+  
+}
+
 nav li {
   list-style-type: none;
 }
